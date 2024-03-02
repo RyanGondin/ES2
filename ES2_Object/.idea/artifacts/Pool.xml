@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pool">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pool</output-path>
+    <root id="archive" name="Pool.jar">
+      <element id="module-output" name="ES2_Object" />
+    </root>
+  </artifact>
+</component>
