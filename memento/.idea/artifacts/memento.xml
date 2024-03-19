@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="memento">
+    <output-path>$PROJECT_DIR$/out/artifacts/memento</output-path>
+    <root id="archive" name="memento.jar">
+      <element id="module-output" name="memento" />
+    </root>
+  </artifact>
+</component>
